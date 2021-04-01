@@ -8,6 +8,7 @@ export default function Home() {
         <title>HOME | 이안</title>
         <meta name="description" content="이안 nextjs 테스트 사이트."></meta>
       </Head>
+      <div style={{ padding: "200px" }}>알로~~!</div>
     </>
   );
 }
